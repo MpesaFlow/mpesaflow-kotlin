@@ -21,7 +21,7 @@ The REST API documentation can be found on [docs.mpesaflow.com](https://docs.mp
 <!-- x-release-please-start-version -->
 
 ```kotlin
-implementation("com.mpesaflow.api:mpesaflow-kotlin:0.0.1-alpha.0")
+implementation("com.mpesaflow.api:mpesaflow-kotlin:0.0.1-alpha.1")
 ```
 
 #### Maven
@@ -30,7 +30,7 @@ implementation("com.mpesaflow.api:mpesaflow-kotlin:0.0.1-alpha.0")
 <dependency>
     <groupId>com.mpesaflow.api</groupId>
     <artifactId>mpesaflow-kotlin</artifactId>
-    <version>0.0.1-alpha.0</version>
+    <version>0.0.1-alpha.1</version>
 </dependency>
 ```
 
