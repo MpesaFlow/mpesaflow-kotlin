@@ -33,9 +33,9 @@ configure<PublishingExtension> {
                 }
 
                 scm {
-                    connection.set("scm:git:git://github.com/stainless-sdks/mpesaflow-kotlin.git")
-                    developerConnection.set("scm:git:git://github.com/stainless-sdks/mpesaflow-kotlin.git")
-                    url.set("https://github.com/stainless-sdks/mpesaflow-kotlin")
+                    connection.set("scm:git:git://github.com/MpesaFlow/mpesaflow-kotlin.git")
+                    developerConnection.set("scm:git:git://github.com/MpesaFlow/mpesaflow-kotlin.git")
+                    url.set("https://github.com/MpesaFlow/mpesaflow-kotlin")
                 }
 
                 versionMapping {
